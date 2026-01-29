@@ -36,6 +36,7 @@ Actualmente combinando mi experiencia en infraestructura con el desarrollo avanz
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-pasgar/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanpasgar@gmail.com)
+**Email:** ivanpasgar@gmail.com
 
 ---
 ### Crecimiento y aprendizaje constante 🖥️🛠️

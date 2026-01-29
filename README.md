@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm ivanpasgar-ipg 👋 
 
-<!--
-**ivanpasgar-ipg/ivanpasgar-ipg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ IT Support Specialist | Automation & Backend Explorer
 
-Here are some ideas to get you started:
+Especialista en soporte técnico con un enfoque en la eficiencia operativa. 
+Actualmente combinando mi experiencia en infraestructura con el desarrollo avanzado en ecosistemas modernos para crear soluciones de todo tipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Professional Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Current Mastery** | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![XML](https://img.shields.io/badge/-XML-F16529?style=flat-square&logo=xml&logoColor=white) |
+| **Advanced Learning** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **IT Operations** | ![Support](https://img.shields.io/badge/-IT%20Support-blue?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-gray?style=flat-square) |
+
+---
+
+### 🚀 Key Projects & Lab
+* **[Nombre del Proyecto]:** Automatización de tareas de soporte mediante **Bash** y **Java**.
+* **Learning Path:** Desarrollando servicios backend con **.NET** y aplicaciones móviles/JVM con **Kotlin**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=distinguished&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=distinguished&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+
+---
+### Crecimiento y aprendizaje constante 🖥️🛠️

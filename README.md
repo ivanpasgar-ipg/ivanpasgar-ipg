@@ -18,9 +18,17 @@ Actualmente combinando mi experiencia en infraestructura con el desarrollo avanz
 
 ---
 
-### 🚀 Key Projects & Lab
 * **[Nombre del Proyecto]:** Automatización de tareas de soporte mediante **Bash** y **Java**.
 * **Learning Path:** Desarrollando servicios backend con **.NET** y aplicaciones móviles/JVM con **Kotlin**.
+
+---
+
+### 🌐 Languages
+* **English:** 🇬🇧 B1 - PET Cambridge
+* **French:** 🇫🇷 A2 - Elementary
+* **Portuguese:** 🇵🇹 A2 - Elementary
+* **Spanish:** 🇪🇸 Native
+### 🚀 Key Projects & Lab
 
 ---
 

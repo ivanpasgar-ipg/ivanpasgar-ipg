@@ -11,6 +11,7 @@ Actualmente combinando mi experiencia en infraestructura con el desarrollo avanz
 
 | Category | Tools & Languages |
 | :--- | :--- |
+| **Operating Systems** | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | **Current Mastery** | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![XML](https://img.shields.io/badge/-XML-F16529?style=flat-square&logo=xml&logoColor=white) |
 | **Advanced Learning** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **IT Operations** | ![Support](https://img.shields.io/badge/-IT%20Support-blue?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-gray?style=flat-square) |

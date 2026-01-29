@@ -17,24 +17,27 @@ Actualmente combinando mi experiencia en infraestructura con el desarrollo avanz
 | **IT Operations** | ![Support](https://img.shields.io/badge/-IT%20Support-blue?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-gray?style=flat-square) |
 
 ---
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanpasgar-ipg&show_icons=true&theme=distinguished&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpasgar-ipg&layout=compact&theme=distinguished&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-* **[Nombre del Proyecto]:** Automatización de tareas de soporte mediante **Bash** y **Java**.
-* **Learning Path:** Desarrollando servicios backend con **.NET** y aplicaciones móviles/JVM con **Kotlin**.
-
----
 
 ### 🌐 Languages
 * **English:** 🇬🇧 B1 - PET Cambridge
 * **French:** 🇫🇷 A2 - Elementary
 * **Portuguese:** 🇵🇹 A2 - Elementary
 * **Spanish:** 🇪🇸 Native
+
+---
+
 ### 🚀 Key Projects & Lab
+* **System Optimization:** Scripts en **Bash** para la automatización de mantenimiento en entornos Linux/Windows.
+* **Modern Development:** Construcción de servicios con **.NET** y exploración de apps con **Kotlin** para Android.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanpagar-ipg&show_icons=true&theme=distinguished&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpasgar-ipg&layout=compact&theme=distinguished&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 

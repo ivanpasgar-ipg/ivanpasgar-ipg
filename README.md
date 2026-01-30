@@ -49,4 +49,4 @@ Actualmente combinando mi experiencia en infraestructura con el desarrollo avanz
 **Email:** ivanpasgar@gmail.com
 
 ---
-### Crecimiento y aprendizaje constante 🖥️🛠️
+"Crecimiento y aprendizaje constante 🖥️🛠️"
